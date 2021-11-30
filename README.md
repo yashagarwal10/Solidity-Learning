@@ -270,11 +270,3 @@ Repo on Git:
 * **Dex - dydx**
 
 * **Lending- Alpaca, Compound, MakerDAO, Balancer, Bancor**
-
-## Understand basics of networking
-
-* **Subnet**
-
-* **NAT**
-
-* **VPN**
