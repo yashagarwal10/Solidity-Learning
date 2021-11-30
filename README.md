@@ -39,7 +39,8 @@
 
 [https://www.youtube.com/watch?v=jxLkbJozKbY](https://www.youtube.com/watch?v=jxLkbJozKbY)
 
-_(TODO: Read about DAO issue and what loophole was exploited in ethereum classic )_
+The DAO issue attack: [https://www.gemini.com/cryptopedia/the-dao-hack-makerdao#section-the-dao-hack-remedy-forks-ethereum](https://www.gemini.com/cryptopedia/the-dao-hack-makerdao#section-the-dao-hack-remedy-forks-ethereum)
+
 
 * **What are its subunits? Gwei and Wei**
 
@@ -59,7 +60,7 @@ Proof of Work : [https://ethereum.org/en/developers/docs/consensus-mechanisms/po
 
 Nonce : [https://en.wikipedia.org/wiki/Cryptographic_nonce](https://en.wikipedia.org/wiki/Cryptographic_nonce)
 
-_(TODO: Read more on Proof of stake)_
+Proof of stake: [https://www.investopedia.com/terms/p/proof-stake-pos.asp](https://www.investopedia.com/terms/p/proof-stake-pos.asp)
 
 * **What do we mean by "n confirmations on a transaction"?**
 
@@ -70,8 +71,6 @@ _(TODO: Read more on Proof of stake)_
 * **What is mining?**
 
 [https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/mining/](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/mining/)
-
-_(TODO: Can understand more in detail, understood the gist)_
 
 * **What is the hash rate?**
 
