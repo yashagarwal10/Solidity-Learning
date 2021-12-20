@@ -82,7 +82,7 @@ Proof of stake: [https://www.investopedia.com/terms/p/proof-stake-pos.asp](https
 
 * **What is a block on ethereum?**
 
-[https://ethereum.org/en/developers/docs/blocks/#:~:text=Blocks%20are%20batches%20of%20transactions,derived%20from%20the%20block%20data.](https://ethereum.org/en/developers/docs/blocks/#:~:text=Blocks%20are%20batches%20of%20transactions,derived%20from%20the%20block%20data)
+[https://ethereum.org/en/developers/docs/blocks/#:~:text=Blocks%20are%20batches%20of%20transactions,derived%20from%20the%20block%20data](https://ethereum.org/en/developers/docs/blocks/#:~:text=Blocks%20are%20batches%20of%20transactions,derived%20from%20the%20block%20data)
 
 * **How do you see the transactions in a block?**
 
